@@ -1,16 +1,14 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>TODO supply a title</title>
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+    <style>
+      main {
+        padding: 1rem;
+      }
+      h1 {
+        padding-bottom: 1rem;
+      }
+    </style>
     <script src="js/jquery.js" type="text/javascript"></script>
     <script src="js/bootstrap.bundle.min.js" type="text/javascript"></script>
-  </head>
-  <body>
-    <main class="m-2">
-      <h1 class="mb-3">Películas</h1>
-    </main>
-  </body>
-</html>
