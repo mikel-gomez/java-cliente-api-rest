@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>ELectura de atributos de fichero XML Hospitales</title>
+    <title>Lectura de atributos de fichero XML Hospitales</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <jsp:include page="inc/header.jsp" />    
@@ -34,7 +34,7 @@
       </button>
       <ul class="list-group mt-3" id="listahospitales">
       </ul>
-      <table id="tablahospitales" class="table table-hovered table-strip">
+      <table id="tablahospitales" class="table table-hover table-striped">
         <thead>
           <tr>
             <th>Nombre</th>
