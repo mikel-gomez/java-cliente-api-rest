@@ -18,7 +18,9 @@
             <li><a class="dropdown-item" href="web04cochesbasicosxml.jsp">Carga y búsqueda en documentos XML - Coches básico</a></li>
             <li><a class="dropdown-item" href="web05departamentosxml.jsp">Departamentos</a></li>
             <li><a class="dropdown-item" href="web06cochesxml.jsp">Coches</a></li>
-            <li><a class="dropdown-item" href="web07hospitalesxmlazure.jsp">Hosp.Azure</a></li>
+            <li><a class="dropdown-item" href="web07hospitalesxmlazure.jsp">Hospitales Azure</a></li>
+            <li><a class="dropdown-item" href="web08doctoresespecialidadxml.jsp">Especialiades.</a></li>
+            <li><a class="dropdown-item" href="web09plantillafuncionesxml.jsp">Funciones</a></li>
             <li><hr class="dropdown-divider"></li>
           </ul>
         </li>        
@@ -29,6 +31,8 @@
         <li class="nav-item"><a class="nav-link" href="web05departamentosxml.jsp">Dept</a></li>
         <li class="nav-item"><a class="nav-link" href="web06cochesxml.jsp">Coches2</a></li>
         <li class="nav-item"><a class="nav-link" href="web07hospitalesxmlazure.jsp">Hosp.Azure</a></li>
+        <li class="nav-item"><a class="nav-link" href="web08doctoresespecialidadxml.jsp">Esp.</a></li>
+        <li class="nav-item"><a class="nav-link" href="web09plantillafuncionesxml.jsp">Fun.</a></li>
       </ul>
     </div>
   </div>
