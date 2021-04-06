@@ -12,6 +12,6 @@
       <h1>API Rest</h1>
       <p>Seleccione opción deseada de menú</p>
     </main>
-    <%@ include file="inc/footer.jsp" %>
+    <jsp:include page="inc/footer.jsp" />
   </body>
 </html>

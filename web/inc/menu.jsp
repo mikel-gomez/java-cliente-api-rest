@@ -21,6 +21,7 @@
             <li><a class="dropdown-item" href="web07hospitalesxmlazure.jsp">Hospitales Azure</a></li>
             <li><a class="dropdown-item" href="web08doctoresespecialidadxml.jsp">Especialiades.</a></li>
             <li><a class="dropdown-item" href="web09plantillafuncionesxml.jsp">Funciones</a></li>
+            <li><a class="dropdown-item" href="web10apidoctoresxml.jsp">Doctores</a></li>
             <li><hr class="dropdown-divider"></li>
           </ul>
         </li>        
@@ -33,6 +34,7 @@
         <li class="nav-item"><a class="nav-link" href="web07hospitalesxmlazure.jsp">Hosp.Azure</a></li>
         <li class="nav-item"><a class="nav-link" href="web08doctoresespecialidadxml.jsp">Esp.</a></li>
         <li class="nav-item"><a class="nav-link" href="web09plantillafuncionesxml.jsp">Fun.</a></li>
+        <li class="nav-item"><a class="nav-link" href="web10apidoctoresxml.jsp">Doc</a></li>
       </ul>
     </div>
   </div>

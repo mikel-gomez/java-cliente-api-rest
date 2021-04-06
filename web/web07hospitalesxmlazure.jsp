@@ -99,7 +99,6 @@
         <div class="row mb-3">
           <div class="col-auto">
             <input id="idhospital" type="number" class="form-control" />
-            </select>
           </div>
           <div class="col-auto">
             <button id="btnhos" type="submit" class="btn btn-primary">Buscar hospital</button>
